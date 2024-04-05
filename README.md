@@ -177,3 +177,4 @@
     <img src='pic/NuGet.png' width='44' title='NuGet'>
     <img src='pic/Unity.png' width='44' title='Unity'>
 </p>
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="120rem" style="max-width:100%;">
