@@ -1,9 +1,5 @@
 # KAIRUSAMA
 
-<!-- <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=10' /> -->
-<img align='left' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=20' />
-<!-- <img align='left' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula' /> -->
-
 <p algin='right'>
     <img src='pic/HTML.png' width='44' title='HTML'>
     <img src='pic/CSS.png' width='44' title='CSS'>
