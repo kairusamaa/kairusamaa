@@ -17,7 +17,7 @@
 </div>
 <div align="center">
 <!--   <img src="https://github.com/kairusamaa/kairusamaa/blob/output/github-contribution-grid-snake.svg" /> -->
-  <img src="./github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <!-- <div align="center">
