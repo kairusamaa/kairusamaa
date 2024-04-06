@@ -2,9 +2,10 @@
 <h1 align="center">I'm Kairusama</h1>
 <h3 align="center">A college student developer from the Philippines.</h3>
 
-
 <div align="center">
   <p> <img src="https://komarev.com/ghpvc/?username=kairusamaa&label=Profile%20views&color=0e75b6&style=flat" alt="kairusamaa" /> </p>
+  <!--   <img src="https://github.com/kairusamaa/kairusamaa/blob/output/github-contribution-grid-snake.svg" /> -->
+  <img src="./github-contribution-grid-snake-dark.svg" />
   <p><img src="https://github-profile-trophy.vercel.app/?username=kairusamaa&theme=tokyonight" /></a> </p>
 </div>
 <div align="center">
@@ -15,10 +16,7 @@
   <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairusamaa&show_icons=true&theme=tokyonight" />
   <img  width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kairusamaa&repo=kairusamaa&show_icons=true&theme=tokyonight" />
 </div>
-<div align="center">
-<!--   <img src="https://github.com/kairusamaa/kairusamaa/blob/output/github-contribution-grid-snake.svg" /> -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
+
 
 <!-- <div align="center">
   <img align="left" width="47%" src="https://streak-stats.demolab.com?user=kairusamaa&theme=tokyonight" />
