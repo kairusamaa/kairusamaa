@@ -16,12 +16,8 @@
   <img  width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kairusamaa&repo=kairusamaa&show_icons=true&theme=tokyonight" />
 </div>
 <div align="center">
-  <img src="https://github.com/kairusamaa/kairusamaa/blob/output/github-contribution-grid-snake.svg" />
+  <img src="[https://github.com/kairusamaa/kairusamaa/blob/output/github-contribution-grid-snake.svg](https://github.com/kairusamaa/kairusamaa/blob/output/github-contribution-grid-snake.svg)" />
 </div>
-
-
-![snake gif](https://github.com/kairusamaa/kairusamaa/blob/output/github-contribution-grid-snake.gif)
- 
 
 <!-- <div align="center">
   <img align="left" width="47%" src="https://streak-stats.demolab.com?user=kairusamaa&theme=tokyonight" />
