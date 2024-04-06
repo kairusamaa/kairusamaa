@@ -1,3 +1,4 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <h1 align="center">Hi 👋, I'm Kairusama</h1>
 <h3 align="center">A college student developer from the Philippines.</h3>
 
@@ -20,8 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kairusamaa&" alt="kairusamaa" /></p>
 
-# KAIRUSAMA
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+# MY TECH STACK
 <p algin='right'>
     <img src='pic/HTML.png' width='44' title='HTML'>
     <img src='pic/CSS.png' width='44' title='CSS'>
