@@ -16,7 +16,7 @@
   <img  width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kairusamaa&repo=kairusamaa&show_icons=true&theme=tokyonight" />
 </div>
 <div align="center">
-  <img src="[https://github.com/kairusamaa/kairusamaa/blob/output/github-contribution-grid-snake.svg](https://github.com/kairusamaa/kairusamaa/blob/output/github-contribution-grid-snake.svg)" />
+  <img src="https://github.com/Igorcbraz/Igorcbraz/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- <div align="center">
