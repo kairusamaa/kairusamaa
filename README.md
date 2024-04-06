@@ -8,6 +8,14 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kairusamaa&show_icons=true&theme=tokyonight" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairusamaa&show_icons=true&theme=tokyonight" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kairusamaa&repo=kairusamaa&show_icons=true&theme=tokyonight" />
+<div align="center">
+  <img align="left" width="47%" src="https://streak-stats.demolab.com?user=kairusamaa&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=kairusamaa&repo=kairusamaa&show_icons=true&theme=tokyonight&rank_icon=github" style="max-width:100%;">
+</div>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kairusamaa&show_icons=true&theme=tokyonight&rank_icon=github" style="max-width:100%;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairusamaa&layout=compact&theme=tokyonight&hide=php" style="max-width:100%;">
+</div>
 <br>
 <br>
 <h3 align="center">Languages and Tools:</h3>
