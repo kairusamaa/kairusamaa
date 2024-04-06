@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kairusamaa&label=Profile%20views&color=0e75b6&style=flat" alt="kairusamaa" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=kairusamaa&theme=matrix" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=kairusamaa&theme=tokyonight" /></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kairusamaa&theme=chartreuse-dark)](https://git.io/streak-stats) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairusamaa&show_icons=true&theme=chartreuse-dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kairusamaa&theme=tokyonight)](https://git.io/streak-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairusamaa&show_icons=true&theme=tokyonight)
 
 
 <h3 align="left">Languages and Tools:</h3>
