@@ -6,7 +6,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=kairusamaa&theme=matrix" /></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kairusamaa&theme=hacker)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairusamaa&theme=shadow_green_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kairusamaa&theme=midnight-purple)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairusamaa&theme=midnight-purple_icons=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
